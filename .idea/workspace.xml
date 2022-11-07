@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93546c04-5051-465e-94de-b56ee5d80e2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/Employee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/Employee/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/Employee/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/Employee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/Employee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/Employee/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/Employee/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/Employee/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/pms/pms-application/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/pms/pms-application/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/pms/pms-application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/pms/pms-application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/pms/pms-application/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/pms/pms-application/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/pms/pms-application/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/pms/pms-application/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//Spring application/spring-mvc-student-crud-app/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/src/main/java/com/sunglowsys/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../..//logical-java-program/logiacal-program/src/test/java/com/sunglowsys/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2GnP7iaW6wx7pf1JEX1Tm83dxVZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Spring application/spring-mvc-student-crud-app&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PmsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunglowsys.PmsApplication" />
+      <module name="pms-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunglowsys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PmsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93546c04-5051-465e-94de-b56ee5d80e2e" name="Changes" comment="" />
+      <created>1667021211827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667021211827</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
